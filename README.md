@@ -1,2 +1,5 @@
-# friendly-waffle-snowy
-Determine breed of Dog in an Image
+#### friendly-waffle-snowy
+
+# **Dog Breed Identification**
+
+#### Determine breed of Dog in an Image
